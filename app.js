@@ -65,7 +65,7 @@ app.use('/api/v1/auth', auth);
 // route to api documentation
 app.get("/", (req, res) => {
 
-    res.status(301).redirect("https://documenter.getpostman.com/view/")
+    res.status(301).redirect("https://documenter.getpostman.com/view/12085227/2s946h9Y24")
 
 })
 
